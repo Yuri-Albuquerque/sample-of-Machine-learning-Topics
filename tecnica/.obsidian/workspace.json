@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "9da715c5d4f69fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5790d621fdd44f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9a2f38c78b95879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample of Machine learning Topics.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "895b5a55aa3c8c1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "791a57289d8e29e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a37c17ea7239aca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "a483a3791bee5bfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52354b19b070fad3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5086555480957,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bc41304518cb941e",
+    "type": "split",
+    "children": [
+      {
+        "id": "753893599a5eb451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e9b8571184b122c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sample of Machine learning Topics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aaad3087f1872c6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sample of Machine learning Topics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5f59b5c309ac391",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "131578912cec9168",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sample of Machine learning Topics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "a9a2f38c78b95879",
+  "lastOpenFiles": [
+    "Sample of Machine learning Topics.md",
+    "prompts.md",
+    "What are Naive Bayes and how it works?.md",
+    "Explain what is bootstrap and how it works.md",
+    "Explain the differences between Leave-one-out and k-fold.md",
+    "Can we use the Decision tree method in a regression tasks? Explain how to proceed.md",
+    "Explain how can we use KNN in a regression task.md",
+    "Give me an explanation of Lasso and Ridge regression, what are the differences between each one of the approach.md",
+    "multicollinearity.md",
+    "Explain what is a linear regression and how it works.md",
+    "covariance.md",
+    "What is a confusion matrix and how it works.md",
+    "Explain whats is the problem of vanish gradient, and how we can handle this problem.md",
+    "What is a neural network.md",
+    "Is it possible to use naive Bayes with continuous features? Explain how its possible, and if its necessary assume the normal distribution of the continuous variable.md",
+    "What are the main boosting methods.md",
+    "Whats the difference between boosting and bagging.md",
+    "What is boosting and how it works?.md",
+    "XGBoost.md",
+    "Pruning Strategies for decision trees.md",
+    "What is a decision tree?.md",
+    "How overfitting happens in decision trees?.md",
+    "Cross-Validation.md",
+    "What are the advantages and disadvantages of using decision tree for classification tasks?.md",
+    "The Elbow method how it works.md",
+    "The silhouette metric how it work.md",
+    "Untitled.canvas",
+    "Pasted image 20231206212224.png",
+    "Xavier",
+    "Pasted image 20231127231456.png",
+    "Pasted image 20231127231107.png",
+    "Pasted image 20231127230538.png",
+    "Pasted image 20231127225512.png",
+    "Untitled"
+  ]
+}
